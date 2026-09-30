@@ -23,11 +23,8 @@ To practice and understand Linux terminal commands for managing file and directo
    * Assigned file ownership to specific users and groups to maintain strict access control policies.
 
 ---
-
 ## 📸 Screenshots
-*(Aapne jo terminal par practice ki thi, uska screenshot yahan upload kar sakte hain)*
-
----
+![Linux Permissions Output](Screenshot%202026-10-01%20051042.png)
 
 ## 🚀 Key Takeaway
 Learned how misconfigured file permissions can lead to security vulnerabilities and how proper access control protects sensitive system files.
